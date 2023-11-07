@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Roshan1-pc2
-- 👀 I’m interested in ... Android app development
-- 🌱 I’m currently learning ...java
+- 👋 Hi, I’m @Roshan_pc
+- 👀 I’m interested in ... Android app development And Flutter 
+- 🌱 I’m currently learning ...flutter,native android
 - 💞️ I’m looking to collaborate on ...new app
 - 📫 How to reach me ...
 
